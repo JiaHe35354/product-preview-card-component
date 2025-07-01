@@ -57,7 +57,7 @@ While building this component, I practiced:
 
 - Structuring CSS into multiple files to make it more readable
 
-- Using the <picture> element to provide different images for responsive design.
+- Using the picture element to provide different images for responsive design.
 
 - Using overflow: hidden to hide any part of an image that extends beyond its parent container
 
