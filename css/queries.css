@@ -1,0 +1,51 @@
+@media (min-width: 62.5em) {
+  html {
+    font-size: 62.5%;
+  }
+
+  body {
+    font-size: 1.4rem;
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 60rem;
+  }
+
+  .img-hero img {
+    height: 100%;
+  }
+
+  .product {
+    padding: 3rem;
+  }
+
+  .prod-cate {
+    margin-bottom: 2rem;
+    letter-spacing: 0.4rem;
+    font-size: 1.3rem;
+  }
+
+  .heading {
+    font-size: 3.25rem;
+    line-height: 3.25rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .description {
+    line-height: 2.3rem;
+  }
+
+  .price-box {
+    margin-bottom: 2.5rem;
+  }
+
+  .price-discount {
+    font-size: 3.25rem;
+  }
+
+  .btn {
+    padding: 1.5rem;
+  }
+}

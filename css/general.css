@@ -1,0 +1,44 @@
+:root {
+  --color-green-light: hsl(158, 36%, 37%);
+  --color-green-dark: hsl(158, 42%, 18%);
+
+  --color-black: hsl(212, 21%, 14%);
+  --color-grey: hsl(228, 12%, 48%);
+  --color-cream: hsl(30, 38%, 92%);
+  --color-white: hsl(0, 0%, 100%);
+
+  --font-primary: "Montserrat", sans-serif;
+  --font-heading: "Fraunces", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 50%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-primary);
+  font-size: 1.75rem;
+  background-color: var(--color-cream);
+  color: var(--color-grey);
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+}
+
+.card {
+  background-color: var(--color-white);
+  max-width: 43rem;
+  border-radius: 10px;
+  overflow: hidden;
+}
