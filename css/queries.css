@@ -47,5 +47,6 @@
 
   .btn {
     padding: 1.5rem;
+    transition: all 0.2s;
   }
 }

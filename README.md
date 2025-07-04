@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution]()
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-jiah.netlify.app/)
+- Live Site URL: [Live site URL](https://product-preview-card-component-jiah.netlify.app/)
 
 ## My process
 
