@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution]()
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-web-page-with-css-flexbox-and-grid-Q119LgLJhf)
 - Live Site URL: [Live site URL](https://product-preview-card-component-jiah.netlify.app/)
 
 ## My process
